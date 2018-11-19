@@ -9,3 +9,4 @@ Currently:
 - Merge Sort in JavaScript
 - Quick Sort in JavaScript
 - Filter in JavaScript
+- Reduce in JavaScript
