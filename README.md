@@ -10,3 +10,4 @@ Currently:
 - Quick Sort in JavaScript
 - Filter in JavaScript
 - Reduce in JavaScript
+- Map in JavaScript
