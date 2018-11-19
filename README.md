@@ -8,3 +8,4 @@ Currently:
 - Insertion Sort in JavaScript
 - Merge Sort in JavaScript
 - Quick Sort in JavaScript
+- Filter in JavaScript
